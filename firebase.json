@@ -1,0 +1,1 @@
+{"firestore":{"database":"(default)","location":"asia-northeast1","rules":"firestore.rules","indexes":"firestore.indexes.json"},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"gen-lang-client-0509781199","configurations":{"web":"1:386902319678:web:8e3308691263d84a3da76f"}}}}}}
